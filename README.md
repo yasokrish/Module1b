@@ -12,7 +12,7 @@
     <header>
         <!-- Site logo and navigation links go here -->
         <hr><hr><marquee direction="right">IEKARTS SHOPPING ZONE</marquee><hr><hr>
-        <center><img src = "E:\module 1\iekart.jpg"></center><br>
+        <center><img src = "iekart.jpg"></center><br>
         <a href = "https://shoppingekart.com/" target="_blank">Shoppingekart.com</a>
     </header>
     
