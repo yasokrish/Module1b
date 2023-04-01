@@ -37,11 +37,11 @@
         <section>
             <h2>Popular Categories</h2>
             <!-- Links to popular product categories go here -->
-            <a href = "https://shoppingekart.com/category/Mobiles/" target="_blank">Mobile Phones.com</a><br>
-            <a href = "https://shoppingekart.com/category/ELECTRONICS/" target="_blank">Electronics.com</a><br>
-            <a href = "https://shoppingekart.com/category/MEN/" target="_blank">Men Products.com</a><br>
-            <a href = "https://shoppingekart.com/category/WOMEN/" target="_blank">Women Products.com</a><br>
-            <a href = "https://shoppingekart.com/category/BABY--KIDS/" target="_blank">Baby&Kids.com</a>
+            <a href = "https://shoppingekart.com/category/Mobiles/" target="_blank">Mobile Phones</a><br>
+            <a href = "https://shoppingekart.com/category/ELECTRONICS/" target="_blank">Electronics</a><br>
+            <a href = "https://shoppingekart.com/category/MEN/" target="_blank">Men Products</a><br>
+            <a href = "https://shoppingekart.com/category/WOMEN/" target="_blank">Women Products</a><br>
+            <a href = "https://shoppingekart.com/category/BABY--KIDS/" target="_blank">Baby&Kids</a>
 
         </section>
     </main>
